@@ -1,0 +1,24 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+body {
+    background-color: black;
+}
+
+.hora{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: white;
+    font-size: 100px;
+    font-family: "Courier New", Courier, monospace;
+    background-color: rgb(82, 80, 80);
+    padding: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
